@@ -10,7 +10,7 @@ core = "1.13.0"
 core-splashscreen = "1.0.1"
 fuzzywuzzy = "1.4.0"
 jaudiotagger = "3.0.1"
-lifecycle-runtime = "2.7.0"
+lifecycle-runtime = "2.8.6"
 media = "1.7.0"
 okhttp3 = "4.12.0"
 
